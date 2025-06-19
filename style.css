@@ -24,9 +24,10 @@ body {
 }
 
 .user-chat-box {
-    width: 40%;
+    width: 60%;
+    display:flex;
     position: relative;
-    left: 60%;
+    left: 40%;
     padding: 0px;
 }
 
